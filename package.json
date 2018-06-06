@@ -1,0 +1,22 @@
+{
+  "name": "operr",
+  "version": "1.0.0",
+  "description": "Automated testing for Operr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"chimp": "^0.5.1"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CACSPC/Operr-V3-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CACSPC/Operr-V3-testing/issues"
+  },
+  "homepage": "https://github.com/CACSPC/Operr-V3-testing#readme"
+}
